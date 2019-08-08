@@ -2,7 +2,7 @@
 
 Projetos realizados durante o Data Challenge pela Udacity em 2018
 
-## Projeto 1: Data Challenge 2018 - Nunbank
+## Projeto 1: Data Challenge 2018 - Nubank
 
 Criação de 3 modelos:
 
